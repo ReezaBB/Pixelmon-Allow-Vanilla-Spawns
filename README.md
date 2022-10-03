@@ -7,6 +7,6 @@ To install this datapack you need to open your world, you can either disable the
 ## How To Install
 1. Open your world file (normally located `%appdata%/.minecraft/saves/<WORLD_NAME>`
 2. Open the `datapacks` folder
-3. Put the folder `pixelmon-allow-vanilla-spawns` into the `datapacks` folder
+3. Put the folder `pixelmon-allow-vanilla-spawns` into the `datapacks` folder (It needs to be inside the pixelmon-allow-vanilla-spawns folder, do not extract the directory should be `%appdata%/.minecraft/saves/<WORLD_NAME>/datapacks/pixelmon-allow-vanilla-spawns`
 4. Open the world and type `/datapack enable "file/pixelmon-allow-vanilla-spawns"`
-5. Wait for the game to reload completely and it should be applied.
+5. Wait for the game to reload completely and it should be applied
