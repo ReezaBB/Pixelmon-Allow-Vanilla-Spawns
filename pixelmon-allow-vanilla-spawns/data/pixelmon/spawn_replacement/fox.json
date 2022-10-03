@@ -1,0 +1,17 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:fox"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "fennekin",
+    "vulpix",
+    "zorua",
+    "nickit",
+    "thievul",
+    "ninetales",
+    "zoroark"
+  ]
+}

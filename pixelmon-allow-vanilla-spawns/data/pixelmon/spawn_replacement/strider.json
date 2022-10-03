@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:strider"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "gengar",
+    "weezing"
+  ]
+}

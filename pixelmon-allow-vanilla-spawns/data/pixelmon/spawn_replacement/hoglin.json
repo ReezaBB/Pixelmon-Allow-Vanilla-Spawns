@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:hoglin",
+    "minecraft:piglin",
+    "minecraft:piglin_brute"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "tepig",
+    "pignite",
+    "embroar"
+  ]
+}

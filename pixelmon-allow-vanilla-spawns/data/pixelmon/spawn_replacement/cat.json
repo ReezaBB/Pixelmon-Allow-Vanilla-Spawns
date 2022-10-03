@@ -1,0 +1,17 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:cat"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "meowth",
+    "meowstic",
+    "glameow",
+    "shinx",
+    "purrloin",
+    "litleo",
+    "espurr"
+  ]
+}

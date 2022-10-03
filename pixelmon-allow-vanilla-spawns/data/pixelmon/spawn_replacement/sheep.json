@@ -1,0 +1,14 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:sheep"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "wooloo",
+    "dubwool",
+    "mareep",
+    "flaaffy"
+  ]
+}

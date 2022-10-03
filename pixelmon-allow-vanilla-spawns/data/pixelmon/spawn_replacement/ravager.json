@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:ravager"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "tauros",
+    "bouffalant"
+  ]
+}

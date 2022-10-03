@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:pillager",
+    "minecraft:vindicator"
+  ],
+  "replacement_logic": "trainer"
+}

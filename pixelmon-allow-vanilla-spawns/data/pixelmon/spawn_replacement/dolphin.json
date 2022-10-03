@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:dolphin"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "gorebyss"
+  ]
+}

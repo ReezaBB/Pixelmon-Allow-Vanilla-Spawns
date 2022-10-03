@@ -1,0 +1,14 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:turtle"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "tirtouga",
+    "squirtle",
+    "chewtle",
+    "drednaw"
+  ]
+}

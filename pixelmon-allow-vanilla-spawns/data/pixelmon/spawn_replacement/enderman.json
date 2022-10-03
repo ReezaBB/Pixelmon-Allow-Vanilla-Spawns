@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:enderman"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "abra",
+    "kadabra",
+    "alakazam",
+    "elgyem",
+    "beheeyem"
+  ]
+}

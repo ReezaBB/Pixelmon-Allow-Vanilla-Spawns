@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:bee"
+  ],
+  "replacement_logic": "bees",
+  "specs": [
+    "beedrill",
+    "combee"
+  ]
+}

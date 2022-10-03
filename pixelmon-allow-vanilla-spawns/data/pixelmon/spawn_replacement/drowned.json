@@ -1,0 +1,16 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:drowned"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "dhelmise",
+    "basculin",
+    "binacle",
+    "barbaracle",
+    "mareanie",
+    "toxapex"
+  ]
+}

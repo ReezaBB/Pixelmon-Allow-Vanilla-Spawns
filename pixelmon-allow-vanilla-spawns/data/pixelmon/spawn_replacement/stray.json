@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:stray"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "cubone"
+  ]
+}

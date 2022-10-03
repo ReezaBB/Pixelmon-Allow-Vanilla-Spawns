@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:witch"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "mismagius",
+    "hatrene"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:cave_spider"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "galvantula",
+    "joltik"
+  ]
+}

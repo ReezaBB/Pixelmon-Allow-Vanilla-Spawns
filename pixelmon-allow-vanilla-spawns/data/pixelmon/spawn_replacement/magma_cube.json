@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:magma_cube"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "slugma",
+    "magcargo"
+  ]
+}

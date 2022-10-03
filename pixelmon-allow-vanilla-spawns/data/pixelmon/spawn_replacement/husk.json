@@ -1,0 +1,13 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:husk"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "shedinja",
+    "yamask",
+    "cofagrigus"
+  ]
+}
