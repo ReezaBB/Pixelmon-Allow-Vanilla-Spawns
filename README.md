@@ -1,5 +1,5 @@
 # Pixelmon-Allow-Vanilla-Spawns
-A Minecraft datapack for the Pixelmon Mod that allows for vanilla spawns. This was made for the Pixelmon beta 9.0.9+, any other versions are untested.
+A Minecraft datapack for the Pixelmon Reforged Mod (1.16.5) that allows for vanilla spawns. This was made for the Pixelmon beta 9.0.9+, any other versions are untested.
 
 ## Before Installing
 To install this datapack you need to open your world, you can either disable the `allow-vanilla-mobs` property in your Pixelmon config (See below), or once you apply kill all pixelmon to remove all of the extra spawned pixelmon by doing the command `/kill @e[type=pixelmon:pixelmon]`
